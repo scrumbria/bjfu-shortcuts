@@ -1,0 +1,43 @@
+bjfu-shortcuts
+==============
+
+"I used to marvel at their powful tools, now I decide to steal their creativity
+and make my own toys"
+                                      --The reason why I made bjfu-shortcuts
+
+bjfu-wifi auto login
+--------------------
+
+The bjfu-shortcuts includes severl iOS shortcuts, tends to simplify 
+snippy Web Authentication API to login bjfu-wifi. Due to the different 
+frontend of bjfu-wifi, the different area of school is equipped with 
+its own POST head to login bjfu-wifi. With these "historical" network 
+situation, bjfu-shortcuts now introducing multiple, specific shortcuts 
+scripts to login bjfu-wifi. Here's finished bjfu-shortcuts to login bjfu-wifi:
+
+for dorm bjfu-wifi auto login:
+
+    https://www.icloud.com/shortcuts/a8402bae05e441f0ae00030a8e13103f
+
+for library(haven't confirmed) and lab bjfu-wifi auto login:
+
+    https://www.icloud.com/shortcuts/de55bf9fb78d418f99e7ddffe59c7972
+    
+other area wifi login haven't been developed, waitting for update
+
+
+bjfu information check
+----------------------
+
+The information check shortcuts will be introducing soon(or never), including 
+grades points / course / notification / offical info, etc
+
+
+miscellaneous
+-------------
+
+This project was inspired(or adpated) by a forerunner called Bjfu_Home developed by @xyz103, here's repo:
+
+    https://github.com/xzy103/Bjfu_Home/tree/master/BjfuHome
+
+Thanks to his work
