@@ -11,8 +11,10 @@
 
 对于宿舍的校园网自动化：
     [透过 iCloud 获取分享](https://www.icloud.com/shortcuts/a8402bae05e441f0ae00030a8e13103f)
+
 对于图书馆（未验证）和实验室的校园网自动化:
     [透过 iCloud 获取分享](https://www.icloud.com/shortcuts/de55bf9fb78d418f99e7ddffe59c7972)
+
 学校其他区域的 Wi-Fi 还未开发，请等待更新
 
 使用 Safari 打开以上链接，并在"设置-快捷指令-允许不受信任的快捷指令"中勾选"允许不受信任的快捷指令"，如果"允许不受信任的快捷指令"为灰色，
