@@ -5,7 +5,7 @@
 ————我为什么写这些快捷指令
 
 ### 引言
-为了摆脱烦人的校园网登陆，我决定循着前人的工作`$^1$`，使用 Apple Shortcuts 编写可以自动登入校园网的脚本。有了可以参考的对象，这些移植的工作很快就完成了（事实上只花费了数个小时），这些脚本后的逻辑编写者（已经毕业的学长）功不可没
+为了摆脱烦人的校园网登陆，我决定循着前人的工作¹，使用 Apple Shortcuts 编写可以自动登入校园网的脚本。有了可以参考的对象，这些移植的工作很快就完成了（事实上只花费了数个小时），这些脚本后的逻辑编写者（已经毕业的学长）功不可没
 
 ### 使用方法
 
@@ -36,4 +36,4 @@
 
 ### 备注
 - [1] 这些快捷指令离不开 [@xyz103](https://github.com/xzy103) 的 [Bjfu_Home](https://github.com/xzy103/Bjfu_Home/tree/master/BjfuHome) 相关工作，再次致谢
-- [2] 这篇博客在 [mak.ink](inns.studio) 完成，感谢 [@shuding](https://github.com/shuding) 为便携性 Markdown 做出的工作（我认为这可能是在 iPad 上最好的 Markdown 编辑器
+- [2] 这篇博客在 [mak.ink](inns.studio) 完成，感谢 [@shuding](https://github.com/shuding) 为便携性 Markdown 做出的工作（我认为这可能是在 iPad 上最好的 Markdown 编辑器）
